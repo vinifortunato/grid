@@ -1,4 +1,4 @@
-# Grid
+# CSS Grid Layout
 
 ![Example](image.png)
 
